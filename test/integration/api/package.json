@@ -1,0 +1,1 @@
+{"name":"api-integration-tests","version":"1.0.0","description":"API integration tests for auth service","main":"auth-lifecycle.test.js","scripts":{"test":"node auth-lifecycle.test.js"},"dependencies":{"axios":"^1.7.2","nats":"^2.29.3"}}

@@ -1,0 +1,29 @@
+# Dependencies
+**/[Bb]in/
+**/[Oo]bj/
+**/[Nn]ode_modules/
+
+# Build results
+[Bb]uild/
+[Bb]uilds/
+[Tt]est[Rr]esults/
+
+# .NET files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.dll
+*.pdb
+
+# Rider files
+.idea/
+*.sln.iml
+
+# User-specific files
+*.DS_Store
+Thumbs.db
+
+# Environment 
+.vscode
+.env
